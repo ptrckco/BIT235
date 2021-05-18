@@ -1,0 +1,7 @@
+127.0.0.1 - - [10/Oct/2020:20:53:01 +1100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:53:02 +1100] "GET /BookPortal/ HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:53:38 +1100] "GET /BookPortal/BookListServlet?action=list HTTP/1.1" 200 5997
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:53:42 +1100] "GET /BookPortal/BookListServlet?action=search&title= HTTP/1.1" 500 4880
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:56:56 +1100] "GET /BookPortal/ HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:56:58 +1100] "GET /BookPortal/BookListServlet?action=list HTTP/1.1" 200 5991
+0:0:0:0:0:0:0:1 - - [10/Oct/2020:20:57:02 +1100] "GET /BookPortal/BookListServlet?action=search&title= HTTP/1.1" 500 4868

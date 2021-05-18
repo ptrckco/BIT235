@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Exercise4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int P = 5000;
+		int n = 10;
+		double r = .04, A;
+		Scanner inputWindows = new Scanner (System.in);
+		System.out.print("Enter number of years");
+		double number = inputWindows.nextDouble();
+
+		A = P * (Math.pow(number, n));
+		System.out.println("The calculate the compund interest of " + A);
+		
+	}
+
+}

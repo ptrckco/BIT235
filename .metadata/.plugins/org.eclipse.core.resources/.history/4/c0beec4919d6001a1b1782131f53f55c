@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Exercise5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double sun = 865000, s;
+		double earth = 7600, e;
+		s = Math.pow(sun, 3);
+		System.out.println("The cubeic miles of earth is " + s);
+		e = Math.pow(earth, 3);
+		System.out.println("The cubeic miles of earth is " + e);
+	}
+
+}

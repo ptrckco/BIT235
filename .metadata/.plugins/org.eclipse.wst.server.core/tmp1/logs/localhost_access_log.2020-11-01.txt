@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/Nov/2020:18:16:37 +1100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:18:16:38 +1100] "GET /Assessment3/WEB-INF/classes/Adding/LinkedListAdding.java HTTP/1.1" 404 682
+127.0.0.1 - - [01/Nov/2020:18:37:46 +1100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:18:37:47 +1100] "GET /Assessment3/WEB-INF/classes/LinkedListExample/LinkedListExample.java HTTP/1.1" 404 682
